@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file;/C:/celulares.xsl"?>
+<celulares>
+  <celular >
+    <marca>Samsung</marca>
+    <modelo>A71</modelo>
+    <capacidad>64GB</capacidad>
+    <ram>4GB</ram>
+    <precio>8900</precio>
+  </celular>
+    <celular >
+    <marca>Samsung</marca>
+    <modelo>A70</modelo>
+    <capacidad>128GB</capacidad>
+    <ram>6GB</ram>
+    <precio>11000</precio>
+  </celular>
+    <celular >
+    <marca>Samsung</marca>
+    <modelo>Note 10 Lite</modelo>
+    <capacidad>256GB</capacidad>
+    <ram>6GB</ram>
+    <precio>15000</precio>
+  </celular>
+    <celular >
+    <marca>Samsung</marca>
+    <modelo>S21</modelo>
+    <capacidad>512GB</capacidad>
+    <ram>8GB</ram>
+    <precio>24900</precio>
+  </celular>
+</celulares>
